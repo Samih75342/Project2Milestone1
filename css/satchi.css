@@ -1,0 +1,170 @@
+.satchi-erazo-bonilla {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.satchi-erazo-bonilla .image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  aspect-ratio: 0.75;
+}
+
+.satchi-erazo-bonilla .rectangle {
+  top: 203px;
+  left: 95px;
+  width: 1250px;
+  height: 753px;
+  position: absolute;
+  background-color: #ffcfec;
+  border-radius: 100px;
+  filter: blur(50px);
+  opacity: 0.9;
+}
+
+.satchi-erazo-bonilla .div {
+  top: 359px;
+  left: 402px;
+  width: 627px;
+  height: 447px;
+  position: absolute;
+  background-color: #ffcfec;
+  border-radius: 100px;
+  filter: blur(50px);
+  opacity: 0.9;
+}
+
+.satchi-erazo-bonilla .text-wrapper {
+  position: absolute;
+  top: 887px;
+  left: 994px;
+  width: 462px;
+  -webkit-text-stroke: 1px #953790;
+  font-family: "DynaPuff-Medium", Helvetica;
+  font-weight: 500;
+  color: #854886;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0.4px;
+  line-height: 50px;
+  text-decoration: underline;
+}
+
+.satchi-erazo-bonilla .text-wrapper-2 {
+  position: absolute;
+  top: 356px;
+  left: 284px;
+  width: 851px;
+  -webkit-text-stroke: 7px #b843ba;
+  font-family: "DynaPuff-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffbcf7;
+  font-size: 140px;
+  text-align: center;
+  letter-spacing: 12.6px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.satchi-erazo-bonilla .DIGICLOSET {
+  position: absolute;
+  top: 177px;
+  left: 439px;
+  width: 561px;
+  height: 106px;
+}
+
+.satchi-erazo-bonilla .ellipse {
+  position: absolute;
+  top: 641px;
+  left: 449px;
+  width: 495px;
+  height: 119px;
+  background-color: #aa58a6;
+  border-radius: 247.5px / 59.5px;
+  border: 6px solid;
+  border-color: #ab33a3;
+}
+
+.satchi-erazo-bonilla .text-wrapper-3 {
+  position: absolute;
+  top: 670px;
+  left: 460px;
+  width: 481px;
+  font-family: "DynaPuff-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0.4px;
+  line-height: 50px;
+}
+
+.satchi-erazo-bonilla .img {
+  position: absolute;
+  top: 419px;
+  left: 1105px;
+  width: 131px;
+  height: 45px;
+}
+
+.satchi-erazo-bonilla .ellipse-2 {
+  position: absolute;
+  top: 476px;
+  left: 1102px;
+  width: 55px;
+  height: 55px;
+}
+
+.satchi-erazo-bonilla .ellipse-3 {
+  position: absolute;
+  top: 348px;
+  left: 1100px;
+  width: 76px;
+  height: 63px;
+}
+
+.satchi-erazo-bonilla .ellipse-4 {
+  position: absolute;
+  top: 488px;
+  left: 237px;
+  width: 64px;
+  height: 66px;
+}
+
+.satchi-erazo-bonilla .ellipse-5 {
+  position: absolute;
+  top: 423px;
+  left: 191px;
+  width: 125px;
+  height: 48px;
+}
+
+.satchi-erazo-bonilla .ellipse-6 {
+  position: absolute;
+  top: 332px;
+  left: 226px;
+  width: 79px;
+  height: 82px;
+}
+
+.satchi-erazo-bonilla .text-wrapper-4 {
+  position: absolute;
+  top: 887px;
+  left: 55px;
+  width: 462px;
+  -webkit-text-stroke: 1px #953790;
+  font-family: "DynaPuff-Medium", Helvetica;
+  font-weight: 500;
+  color: #854886;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0.4px;
+  line-height: 50px;
+  text-decoration: underline;
+}
