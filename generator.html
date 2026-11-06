@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DigiCloset - Outfit Generator</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body class="generator-page">
+
+    <div class="generator-container">
+
+        <header class="generator-header">
+            <h1 class="bubble-text logo">DigiCloset</h1>
+
+            <nav class="generator-nav" aria-label="Main navigation">
+                <a href="index.html">Welcome Page</a>
+                <a href="signup.html">Get Started</a>
+                <a href="closet.html">My Closet</a>
+                <a href="profile.html">My Profile</a>
+                <a href="generator.html">Generator</a>
+            </nav>
+        </header>
+
+        <main>
+            <h2 class="bubble-text generator-title">Get Styled</h2>
+
+            <div class="generator-content">
+
+                <section class="quiz-box">
+                    <h3>A Few Questions To Get Started</h3>
+
+                    <form id="outfit-form">
+
+                        <div class="quiz-questions">
+
+                            <label for="location">
+                                1) Where are you located?
+                            </label>
+
+                            <input type="text"
+                                   id="location"
+                                   name="location"
+                                   placeholder="Enter your location"
+                                   required>
+
+                            <fieldset>
+                                <legend>2) What is your formality today?</legend>
+
+                                <label>
+                                    <input type="radio" name="formality"
+                                           value="Lounge Wear" required>
+                                    Lounge Wear
+                                </label>
+
+                                <label>
+                                    <input type="radio" name="formality"
+                                           value="Casual">
+                                    Casual
+                                </label>
+
+                                <label>
+                                    <input type="radio" name="formality"
+                                           value="Business Casual">
+                                    Business Casual
+                                </label>
+
+                                <label>
+                                    <input type="radio" name="formality"
+                                           value="Formal">
+                                    Formal
+                                </label>
+
+                                <label>
+                                    <input type="radio" name="formality"
+                                           value="Black Tie">
+                                    Black Tie
+                                </label>
+
+                                <label>
+                                    <input type="radio" name="formality"
+                                           value="Other">
+                                    Other
+                                </label>
+                            </fieldset>
+
+                            <fieldset>
+                                <legend>3) Will you be indoors or outdoors?</legend>
+
+                                <label>
+                                    <input type="radio" name="environment"
+                                           value="Indoors" required>
+                                    Indoors
+                                </label>
+
+                                <label>
+                                    <input type="radio" name="environment"
+                                           value="Outdoors">
+                                    Outdoors
+                                </label>
+
+                                <label>
+                                    <input type="radio" name="environment"
+                                           value="Both">
+                                    Both
+                                </label>
+                            </fieldset>
+
+                        </div>
+
+                        <div class="submit-box">
+                            <p>Submit</p>
+                            <p><em>and</em></p>
+                            <p>Get Styled</p>
+
+                            <button type="submit" class="quiz-submit">
+                                SUBMIT
+                            </button>
+
+                            <small>Rate Us On The Appstore!</small>
+                        </div>
+
+                    </form>
+                </section>
+
+                <section class="styling-box">
+
+                    <div class="mannequin-area">
+                        <img src="images/mannequin.png"
+                             alt="Fashion mannequin">
+                    </div>
+
+                    <div class="styling-message">
+                        <p>Submit Your Quiz</p>
+                        <p><em>and</em></p>
+                        <p>We'll Start</p>
+                        <h3 class="bubble-text">Styling</h3>
+                    </div>
+
+                </section>
+
+            </div>
+        </main>
+
+        <footer class="generator-footer">
+            <p>DigiCloset - Your Personal Outfit Stylist</p>
+        </footer>
+
+    </div>
+
+</body>
+</html>
