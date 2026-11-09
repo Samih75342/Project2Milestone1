@@ -1,0 +1,400 @@
+.lauren-williams {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.lauren-williams .rectangle {
+  position: absolute;
+  top: 446px;
+  left: 0;
+  width: 1440px;
+  height: 578px;
+  transform: rotate(0.02deg);
+  object-fit: cover;
+}
+
+.lauren-williams .rectangle-wrapper {
+  position: absolute;
+  top: 446px;
+  left: -35px;
+  width: 1475px;
+  height: 692px;
+  display: flex;
+}
+
+.lauren-williams .img {
+  flex: 1;
+  width: 1440.43px;
+  transform: rotate(0.02deg);
+}
+
+.lauren-williams .div {
+  position: absolute;
+  top: 95px;
+  left: 92px;
+  width: 1262px;
+  height: 385px;
+  background-color: #ffecf7;
+  border-radius: 10px;
+}
+
+.lauren-williams .rectangle-2 {
+  position: absolute;
+  top: 512px;
+  left: 65px;
+  width: 84px;
+  height: 34px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-3 {
+  position: absolute;
+  top: 512px;
+  left: 178px;
+  width: 81px;
+  height: 34px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-4 {
+  position: absolute;
+  top: 512px;
+  left: 288px;
+  width: 81px;
+  height: 34px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-5 {
+  position: absolute;
+  top: 529px;
+  left: 1182px;
+  width: 81px;
+  height: 34px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-6 {
+  position: absolute;
+  top: 529px;
+  left: 1292px;
+  width: 81px;
+  height: 34px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .line {
+  position: absolute;
+  top: 65px;
+  left: 1410px;
+  width: 9px;
+  height: 927px;
+  transform: rotate(0.02deg);
+}
+
+.lauren-williams .rectangle-7 {
+  position: absolute;
+  top: 151px;
+  left: 1191px;
+  width: 116px;
+  height: 21px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .polygon {
+  position: absolute;
+  top: 167px;
+  left: 1283px;
+  width: 16px;
+  height: 15px;
+  transform: rotate(0.02deg);
+}
+
+.lauren-williams .rectangle-8 {
+  position: absolute;
+  top: 607px;
+  left: 121px;
+  width: 186px;
+  height: 203px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-9 {
+  position: absolute;
+  top: 876px;
+  left: 121px;
+  width: 186px;
+  height: 203px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-10 {
+  position: absolute;
+  top: 607px;
+  left: 373px;
+  width: 186px;
+  height: 203px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-11 {
+  position: absolute;
+  top: 876px;
+  left: 373px;
+  width: 186px;
+  height: 203px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-12 {
+  position: absolute;
+  top: 607px;
+  left: 627px;
+  width: 186px;
+  height: 203px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-13 {
+  position: absolute;
+  top: 876px;
+  left: 627px;
+  width: 186px;
+  height: 203px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-14 {
+  position: absolute;
+  top: 607px;
+  left: 879px;
+  width: 186px;
+  height: 203px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-15 {
+  position: absolute;
+  top: 876px;
+  left: 879px;
+  width: 186px;
+  height: 203px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-16 {
+  position: absolute;
+  top: 607px;
+  left: 1133px;
+  width: 186px;
+  height: 203px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-17 {
+  position: absolute;
+  top: 876px;
+  left: 1133px;
+  width: 186px;
+  height: 203px;
+  background-color: #ffffff;
+}
+
+.lauren-williams .rectangle-18 {
+  position: absolute;
+  top: 16px;
+  left: 13px;
+  width: 136px;
+  height: 63px;
+  background-color: #c98bca;
+  border-radius: 10px;
+}
+
+.lauren-williams .ellipse {
+  position: absolute;
+  top: 16px;
+  left: 1282px;
+  width: 100px;
+  height: 95px;
+  background-color: #d9d9d9;
+  border-radius: 50px / 47.5px;
+}
+
+.lauren-williams .images {
+  top: 111px;
+  left: 1222px;
+  width: 188px;
+  height: 188px;
+  position: absolute;
+  transform: rotate(0.02deg);
+  aspect-ratio: 1;
+}
+
+.lauren-williams .california-closets {
+  position: absolute;
+  top: 95px;
+  left: 86px;
+  width: 1268px;
+  height: 386px;
+  transform: rotate(0.02deg);
+  object-fit: cover;
+}
+
+.lauren-williams .rectangle-19 {
+  position: absolute;
+  top: 79px;
+  left: 343px;
+  width: 94px;
+  height: 32px;
+  background-color: #c98bca;
+}
+
+.lauren-williams .rectangle-20 {
+  position: absolute;
+  top: 79px;
+  left: 559px;
+  width: 94px;
+  height: 32px;
+  background-color: #c98bca;
+}
+
+.lauren-williams .rectangle-21 {
+  position: absolute;
+  top: 79px;
+  left: 801px;
+  width: 94px;
+  height: 32px;
+  background-color: #c98bca;
+}
+
+.lauren-williams .rectangle-22 {
+  position: absolute;
+  top: 79px;
+  left: 1024px;
+  width: 109px;
+  height: 32px;
+  background-color: #c98bca;
+}
+
+.lauren-williams .rectangle-23 {
+  position: absolute;
+  top: 79px;
+  left: 167px;
+  width: 94px;
+  height: 32px;
+  background-color: #c98bca;
+}
+
+.lauren-williams .text-wrapper {
+  position: absolute;
+  top: 79px;
+  left: 189px;
+  width: 49px;
+  font-family: "Homenaje-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lauren-williams .text-wrapper-2 {
+  top: 84px;
+  left: 365px;
+  width: 49px;
+  position: absolute;
+  font-family: "Homenaje-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lauren-williams .text-wrapper-3 {
+  position: absolute;
+  top: 79px;
+  left: 554px;
+  width: 104px;
+  font-family: "Homenaje-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lauren-williams .text-wrapper-4 {
+  top: 82px;
+  left: 823px;
+  width: 49px;
+  position: absolute;
+  font-family: "Homenaje-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lauren-williams .text-wrapper-5 {
+  top: 82px;
+  left: 1054px;
+  width: 49px;
+  position: absolute;
+  font-family: "Homenaje-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lauren-williams .images-2 {
+  top: 10px;
+  left: 1282px;
+  width: 101px;
+  height: 101px;
+  object-fit: cover;
+  position: absolute;
+  transform: rotate(0.02deg);
+  aspect-ratio: 1;
+}
+
+.lauren-williams .text-wrapper-6 {
+  position: absolute;
+  top: 29px;
+  left: 25px;
+  width: 112px;
+  font-family: "Homenaje-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.lauren-williams .text-wrapper-7 {
+  top: 1px;
+  left: 1538px;
+  width: 1440px;
+  transform: rotate(0.02deg);
+  position: absolute;
+  font-family: "Homenaje-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
